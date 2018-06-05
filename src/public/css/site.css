@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    background-image: url('/img/background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    align-items: center;
+    text-align:center;
+    font-family: "Roboto";
+    justify-items: center;
+}
+
+#root > * {
+    color: white;
+    width: 80%;
+    padding: 2rem;
+}
+
+h1 {
+    background-color: rgba(191, 191, 63, 0.6);
+    font-size: 6rem;
+}
+
+.welcomeText {
+    background-color: rgba(63, 191, 127, 0.6);
+    font-size: 1.5rem; 
+}
