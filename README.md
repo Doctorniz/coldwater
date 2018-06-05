@@ -1,4 +1,4 @@
-# PAPERCUP - SERVER BOILERPLATE
+# COLDWATER - SERVER BOILERPLATE
 
 Welcome to this repository which sets up a server using the following technologies.
 

@@ -82,3 +82,5 @@ node_modules/
 
 ### 10. Run the following commands to initialise git
 
+`git init`
+`git add *`

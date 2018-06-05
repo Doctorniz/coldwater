@@ -106,3 +106,5 @@ Avoid repetition where possible. This is simple CSS using a simple grid layout s
         <link rel="stylesheet" type="text/css" href="/css/site.css" />
     </head>
 ```
+
+## 8. Save to git
